@@ -1,0 +1,7 @@
+fields eventTime, eventSource, eventName, errorCode,
+       requestParameters.functionName, requestParameters.bucketName,
+       requestParameters.key, requestParameters.tableName,
+       requestParameters.key.pk.S, requestParameters.topicArn,
+       userIdentity.arn, requestID
+| sort eventTime asc
+| limit 10000

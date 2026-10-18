@@ -1,0 +1,11 @@
+measure,count,window_start_utc,window_end_utc
+CloudTrail events in window,0,2026-10-16 01:03:00,2026-10-16 01:27:30
+Lambda log entries in window,0,2026-10-16 01:03:00,2026-10-16 01:27:30
+Runtime log entries in window,0,2026-10-16 01:03:00,2026-10-16 01:27:30
+Tool calls in main-run harness records,253,2026-10-16 01:03:00,2026-10-16 01:27:30
+  matched to a CloudTrail Invoke event,253,2026-10-16 01:03:00,2026-10-16 01:27:30
+  matched to a Lambda log entry,253,2026-10-16 01:03:00,2026-10-16 01:27:30
+Lambda entries in window not in harness records,0,2026-10-16 01:03:00,2026-10-16 01:27:30
+Tool calls in robustness-check harness records,102,2026-10-16 01:03:00,2026-10-16 01:27:30
+  matched to a CloudTrail Invoke event,102,2026-10-16 01:03:00,2026-10-16 01:27:30
+  matched to a Lambda log entry,102,2026-10-16 01:03:00,2026-10-16 01:27:30

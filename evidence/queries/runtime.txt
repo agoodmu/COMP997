@@ -1,0 +1,4 @@
+fields @timestamp, @message
+| filter @message like /RUN-/
+| sort @timestamp asc
+| limit 20000

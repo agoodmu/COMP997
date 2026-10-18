@@ -1,0 +1,155 @@
+{
+  "agent_runtime_arn": {
+    "sensitive": false,
+    "type": "string",
+    "value": "arn:aws:bedrock-agentcore:us-east-1:333679559645:runtime/comp997_jianminmu-bU5wHKB2zy"
+  },
+  "agent_runtime_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "comp997_jianminmu-bU5wHKB2zy"
+  },
+  "agentcore_log_group": {
+    "sensitive": false,
+    "type": "string",
+    "value": "/aws/bedrock-agentcore/runtimes/comp997_jianminmu-bU5wHKB2zy"
+  },
+  "carrier_label": {
+    "sensitive": false,
+    "type": "bool",
+    "value": true
+  },
+  "code_bucket": {
+    "sensitive": false,
+    "type": "string",
+    "value": "comp997-jianminmu-code"
+  },
+  "data_bucket": {
+    "sensitive": false,
+    "type": "string",
+    "value": "comp997-jianminmu-data"
+  },
+  "lambda_broad": {
+    "sensitive": false,
+    "type": "string",
+    "value": "comp997-jianminmu-tool-broad"
+  },
+  "lambda_broad_arn": {
+    "sensitive": false,
+    "type": "string",
+    "value": "arn:aws:lambda:us-east-1:333679559645:function:comp997-jianminmu-tool-broad"
+  },
+  "lambda_get_record": {
+    "sensitive": false,
+    "type": "string",
+    "value": "comp997-jianminmu-tool-get-record"
+  },
+  "lambda_get_record_arn": {
+    "sensitive": false,
+    "type": "string",
+    "value": "arn:aws:lambda:us-east-1:333679559645:function:comp997-jianminmu-tool-get-record"
+  },
+  "lambda_log_groups": {
+    "sensitive": false,
+    "type": [
+      "tuple",
+      [
+        "string",
+        "string",
+        "string",
+        "string"
+      ]
+    ],
+    "value": [
+      "/aws/lambda/comp997-jianminmu-tool-broad",
+      "/aws/lambda/comp997-jianminmu-tool-read-document",
+      "/aws/lambda/comp997-jianminmu-tool-get-record",
+      "/aws/lambda/comp997-jianminmu-tool-send-notification"
+    ]
+  },
+  "lambda_read_document": {
+    "sensitive": false,
+    "type": "string",
+    "value": "comp997-jianminmu-tool-read-document"
+  },
+  "lambda_read_document_arn": {
+    "sensitive": false,
+    "type": "string",
+    "value": "arn:aws:lambda:us-east-1:333679559645:function:comp997-jianminmu-tool-read-document"
+  },
+  "lambda_send_notification": {
+    "sensitive": false,
+    "type": "string",
+    "value": "comp997-jianminmu-tool-send-notification"
+  },
+  "lambda_send_notification_arn": {
+    "sensitive": false,
+    "type": "string",
+    "value": "arn:aws:lambda:us-east-1:333679559645:function:comp997-jianminmu-tool-send-notification"
+  },
+  "protected_table_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "comp997-jianminmu-protected-records"
+  },
+  "queue_arn": {
+    "sensitive": false,
+    "type": "string",
+    "value": "arn:aws:sqs:us-east-1:333679559645:comp997-jianminmu-sink"
+  },
+  "queue_url": {
+    "sensitive": false,
+    "type": "string",
+    "value": "https://sqs.us-east-1.amazonaws.com/333679559645/comp997-jianminmu-sink"
+  },
+  "region": {
+    "sensitive": false,
+    "type": "string",
+    "value": "us-east-1"
+  },
+  "runtime_role_arn": {
+    "sensitive": false,
+    "type": "string",
+    "value": "arn:aws:iam::333679559645:role/comp997-jianminmu-runtime"
+  },
+  "suffix": {
+    "sensitive": false,
+    "type": "string",
+    "value": "jianminmu"
+  },
+  "table_arn": {
+    "sensitive": false,
+    "type": "string",
+    "value": "arn:aws:dynamodb:us-east-1:333679559645:table/comp997-jianminmu-records"
+  },
+  "table_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "comp997-jianminmu-records"
+  },
+  "topic_arn": {
+    "sensitive": false,
+    "type": "string",
+    "value": "arn:aws:sns:us-east-1:333679559645:comp997-jianminmu-notifications"
+  },
+  "trail_arn": {
+    "sensitive": false,
+    "type": "string",
+    "value": "arn:aws:cloudtrail:us-east-1:333679559645:trail/comp997-jianminmu-trail"
+  },
+  "trail_bucket": {
+    "sensitive": false,
+    "type": "string",
+    "value": "comp997-jianminmu-trail"
+  },
+  "trail_log_group": {
+    "sensitive": false,
+    "type": "string",
+    "value": "/aws/cloudtrail/comp997-jianminmu"
+  },
+  "trail_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "comp997-jianminmu-trail"
+  }
+}

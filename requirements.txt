@@ -1,0 +1,8 @@
+# Pinned runtime dependencies for the AgentCore agent zip.
+# Target: CPython 3.12 on Linux ARM64 (manylinux2014_aarch64).
+# Verified against PyPI: boto3 1.43.108 exists and pairs with botocore 1.43.108;
+# jmespath 1.1.0 is the current release. Kept minimal: boto3/botocore/jmespath
+# only (s3transfer, python-dateutil, urllib3 resolve transitively via pip).
+boto3==1.43.108
+botocore==1.43.108
+jmespath==1.1.0

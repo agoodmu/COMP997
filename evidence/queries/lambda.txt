@@ -1,0 +1,4 @@
+fields @timestamp, run_id, tool, ok, aws_request_id, result_bytes
+| filter @message like /"aws_request_id"/
+| sort @timestamp asc
+| limit 10000

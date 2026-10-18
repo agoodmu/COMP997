@@ -1,0 +1,604 @@
+{
+  "schedule": [
+    {
+      "case_id": "A11",
+      "condition": "C0",
+      "order": 2,
+      "run_number": 1
+    },
+    {
+      "case_id": "A12",
+      "condition": "C2",
+      "order": 3,
+      "run_number": 1
+    },
+    {
+      "case_id": "A19",
+      "condition": "C2",
+      "order": 4,
+      "run_number": 1
+    },
+    {
+      "case_id": "A17",
+      "condition": "C4",
+      "order": 5,
+      "run_number": 1
+    },
+    {
+      "case_id": "A14",
+      "condition": "C2",
+      "order": 8,
+      "run_number": 1
+    },
+    {
+      "case_id": "A20",
+      "condition": "C1",
+      "order": 10,
+      "run_number": 1
+    },
+    {
+      "case_id": "A46",
+      "condition": "C2",
+      "order": 11,
+      "run_number": 1
+    },
+    {
+      "case_id": "A43",
+      "condition": "C4",
+      "order": 15,
+      "run_number": 1
+    },
+    {
+      "case_id": "A48",
+      "condition": "C1",
+      "order": 16,
+      "run_number": 1
+    },
+    {
+      "case_id": "A46",
+      "condition": "C1",
+      "order": 19,
+      "run_number": 1
+    },
+    {
+      "case_id": "A41",
+      "condition": "C0",
+      "order": 21,
+      "run_number": 1
+    },
+    {
+      "case_id": "A45",
+      "condition": "C2",
+      "order": 26,
+      "run_number": 1
+    },
+    {
+      "case_id": "A19",
+      "condition": "C1",
+      "order": 29,
+      "run_number": 1
+    },
+    {
+      "case_id": "A15",
+      "condition": "C2",
+      "order": 31,
+      "run_number": 1
+    },
+    {
+      "case_id": "A16",
+      "condition": "C0",
+      "order": 32,
+      "run_number": 1
+    },
+    {
+      "case_id": "A45",
+      "condition": "C4",
+      "order": 36,
+      "run_number": 1
+    },
+    {
+      "case_id": "A11",
+      "condition": "C3",
+      "order": 38,
+      "run_number": 1
+    },
+    {
+      "case_id": "A44",
+      "condition": "C2",
+      "order": 43,
+      "run_number": 1
+    },
+    {
+      "case_id": "A46",
+      "condition": "C3",
+      "order": 45,
+      "run_number": 1
+    },
+    {
+      "case_id": "A13",
+      "condition": "C4",
+      "order": 46,
+      "run_number": 1
+    },
+    {
+      "case_id": "A43",
+      "condition": "C2",
+      "order": 50,
+      "run_number": 1
+    },
+    {
+      "case_id": "A14",
+      "condition": "C4",
+      "order": 51,
+      "run_number": 1
+    },
+    {
+      "case_id": "A48",
+      "condition": "C2",
+      "order": 52,
+      "run_number": 1
+    },
+    {
+      "case_id": "A17",
+      "condition": "C1",
+      "order": 54,
+      "run_number": 1
+    },
+    {
+      "case_id": "A18",
+      "condition": "C2",
+      "order": 58,
+      "run_number": 1
+    },
+    {
+      "case_id": "A46",
+      "condition": "C4",
+      "order": 61,
+      "run_number": 1
+    },
+    {
+      "case_id": "A14",
+      "condition": "C3",
+      "order": 67,
+      "run_number": 1
+    },
+    {
+      "case_id": "A19",
+      "condition": "C4",
+      "order": 68,
+      "run_number": 1
+    },
+    {
+      "case_id": "A15",
+      "condition": "C4",
+      "order": 69,
+      "run_number": 1
+    },
+    {
+      "case_id": "A45",
+      "condition": "C3",
+      "order": 72,
+      "run_number": 1
+    },
+    {
+      "case_id": "A44",
+      "condition": "C4",
+      "order": 82,
+      "run_number": 1
+    },
+    {
+      "case_id": "A16",
+      "condition": "C2",
+      "order": 84,
+      "run_number": 1
+    },
+    {
+      "case_id": "A47",
+      "condition": "C1",
+      "order": 89,
+      "run_number": 1
+    },
+    {
+      "case_id": "A49",
+      "condition": "C3",
+      "order": 95,
+      "run_number": 1
+    },
+    {
+      "case_id": "A50",
+      "condition": "C0",
+      "order": 101,
+      "run_number": 1
+    },
+    {
+      "case_id": "A44",
+      "condition": "C0",
+      "order": 107,
+      "run_number": 1
+    },
+    {
+      "case_id": "A50",
+      "condition": "C2",
+      "order": 108,
+      "run_number": 1
+    },
+    {
+      "case_id": "A11",
+      "condition": "C4",
+      "order": 111,
+      "run_number": 1
+    },
+    {
+      "case_id": "A18",
+      "condition": "C4",
+      "order": 113,
+      "run_number": 1
+    },
+    {
+      "case_id": "A49",
+      "condition": "C4",
+      "order": 115,
+      "run_number": 1
+    },
+    {
+      "case_id": "A11",
+      "condition": "C1",
+      "order": 119,
+      "run_number": 1
+    },
+    {
+      "case_id": "A12",
+      "condition": "C4",
+      "order": 120,
+      "run_number": 1
+    },
+    {
+      "case_id": "A18",
+      "condition": "C0",
+      "order": 123,
+      "run_number": 1
+    },
+    {
+      "case_id": "A13",
+      "condition": "C1",
+      "order": 124,
+      "run_number": 1
+    },
+    {
+      "case_id": "A49",
+      "condition": "C0",
+      "order": 128,
+      "run_number": 1
+    },
+    {
+      "case_id": "A17",
+      "condition": "C3",
+      "order": 129,
+      "run_number": 1
+    },
+    {
+      "case_id": "A44",
+      "condition": "C1",
+      "order": 134,
+      "run_number": 1
+    },
+    {
+      "case_id": "A47",
+      "condition": "C3",
+      "order": 135,
+      "run_number": 1
+    },
+    {
+      "case_id": "A42",
+      "condition": "C3",
+      "order": 136,
+      "run_number": 1
+    },
+    {
+      "case_id": "A16",
+      "condition": "C4",
+      "order": 138,
+      "run_number": 1
+    },
+    {
+      "case_id": "A17",
+      "condition": "C2",
+      "order": 143,
+      "run_number": 1
+    },
+    {
+      "case_id": "A42",
+      "condition": "C1",
+      "order": 148,
+      "run_number": 1
+    },
+    {
+      "case_id": "A13",
+      "condition": "C2",
+      "order": 150,
+      "run_number": 1
+    },
+    {
+      "case_id": "A19",
+      "condition": "C0",
+      "order": 156,
+      "run_number": 1
+    },
+    {
+      "case_id": "A16",
+      "condition": "C1",
+      "order": 176,
+      "run_number": 1
+    },
+    {
+      "case_id": "A41",
+      "condition": "C3",
+      "order": 179,
+      "run_number": 1
+    },
+    {
+      "case_id": "A45",
+      "condition": "C0",
+      "order": 180,
+      "run_number": 1
+    },
+    {
+      "case_id": "A19",
+      "condition": "C3",
+      "order": 184,
+      "run_number": 1
+    },
+    {
+      "case_id": "A43",
+      "condition": "C1",
+      "order": 186,
+      "run_number": 1
+    },
+    {
+      "case_id": "A48",
+      "condition": "C0",
+      "order": 188,
+      "run_number": 1
+    },
+    {
+      "case_id": "A12",
+      "condition": "C0",
+      "order": 189,
+      "run_number": 1
+    },
+    {
+      "case_id": "A49",
+      "condition": "C2",
+      "order": 191,
+      "run_number": 1
+    },
+    {
+      "case_id": "A41",
+      "condition": "C2",
+      "order": 193,
+      "run_number": 1
+    },
+    {
+      "case_id": "A46",
+      "condition": "C0",
+      "order": 194,
+      "run_number": 1
+    },
+    {
+      "case_id": "A13",
+      "condition": "C0",
+      "order": 196,
+      "run_number": 1
+    },
+    {
+      "case_id": "A42",
+      "condition": "C0",
+      "order": 197,
+      "run_number": 1
+    },
+    {
+      "case_id": "A14",
+      "condition": "C1",
+      "order": 202,
+      "run_number": 1
+    },
+    {
+      "case_id": "A50",
+      "condition": "C4",
+      "order": 206,
+      "run_number": 1
+    },
+    {
+      "case_id": "A41",
+      "condition": "C1",
+      "order": 207,
+      "run_number": 1
+    },
+    {
+      "case_id": "A50",
+      "condition": "C3",
+      "order": 208,
+      "run_number": 1
+    },
+    {
+      "case_id": "A48",
+      "condition": "C4",
+      "order": 210,
+      "run_number": 1
+    },
+    {
+      "case_id": "A47",
+      "condition": "C4",
+      "order": 222,
+      "run_number": 1
+    },
+    {
+      "case_id": "A45",
+      "condition": "C1",
+      "order": 225,
+      "run_number": 1
+    },
+    {
+      "case_id": "A15",
+      "condition": "C0",
+      "order": 238,
+      "run_number": 1
+    },
+    {
+      "case_id": "A15",
+      "condition": "C1",
+      "order": 240,
+      "run_number": 1
+    },
+    {
+      "case_id": "A44",
+      "condition": "C3",
+      "order": 241,
+      "run_number": 1
+    },
+    {
+      "case_id": "A20",
+      "condition": "C0",
+      "order": 243,
+      "run_number": 1
+    },
+    {
+      "case_id": "A41",
+      "condition": "C4",
+      "order": 244,
+      "run_number": 1
+    },
+    {
+      "case_id": "A18",
+      "condition": "C1",
+      "order": 245,
+      "run_number": 1
+    },
+    {
+      "case_id": "A12",
+      "condition": "C3",
+      "order": 246,
+      "run_number": 1
+    },
+    {
+      "case_id": "A20",
+      "condition": "C3",
+      "order": 247,
+      "run_number": 1
+    },
+    {
+      "case_id": "A49",
+      "condition": "C1",
+      "order": 248,
+      "run_number": 1
+    },
+    {
+      "case_id": "A50",
+      "condition": "C1",
+      "order": 252,
+      "run_number": 1
+    },
+    {
+      "case_id": "A42",
+      "condition": "C4",
+      "order": 253,
+      "run_number": 1
+    },
+    {
+      "case_id": "A47",
+      "condition": "C2",
+      "order": 255,
+      "run_number": 1
+    },
+    {
+      "case_id": "A11",
+      "condition": "C2",
+      "order": 262,
+      "run_number": 1
+    },
+    {
+      "case_id": "A43",
+      "condition": "C3",
+      "order": 263,
+      "run_number": 1
+    },
+    {
+      "case_id": "A14",
+      "condition": "C0",
+      "order": 270,
+      "run_number": 1
+    },
+    {
+      "case_id": "A42",
+      "condition": "C2",
+      "order": 274,
+      "run_number": 1
+    },
+    {
+      "case_id": "A12",
+      "condition": "C1",
+      "order": 278,
+      "run_number": 1
+    },
+    {
+      "case_id": "A17",
+      "condition": "C0",
+      "order": 280,
+      "run_number": 1
+    },
+    {
+      "case_id": "A13",
+      "condition": "C3",
+      "order": 281,
+      "run_number": 1
+    },
+    {
+      "case_id": "A15",
+      "condition": "C3",
+      "order": 284,
+      "run_number": 1
+    },
+    {
+      "case_id": "A43",
+      "condition": "C0",
+      "order": 291,
+      "run_number": 1
+    },
+    {
+      "case_id": "A47",
+      "condition": "C0",
+      "order": 292,
+      "run_number": 1
+    },
+    {
+      "case_id": "A16",
+      "condition": "C3",
+      "order": 293,
+      "run_number": 1
+    },
+    {
+      "case_id": "A20",
+      "condition": "C2",
+      "order": 300,
+      "run_number": 1
+    },
+    {
+      "case_id": "A20",
+      "condition": "C4",
+      "order": 308,
+      "run_number": 1
+    },
+    {
+      "case_id": "A18",
+      "condition": "C3",
+      "order": 311,
+      "run_number": 1
+    },
+    {
+      "case_id": "A48",
+      "condition": "C3",
+      "order": 317,
+      "run_number": 1
+    }
+  ]
+}

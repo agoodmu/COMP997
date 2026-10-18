@@ -1,0 +1,36 @@
+{
+  "budgets": {
+    "max_model_calls": 4,
+    "max_tool_proposals": 6,
+    "max_tool_rounds": 3
+  },
+  "conditions": [
+    "C0",
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+  ],
+  "corpus_sha256": "4304d7f9bdc394d383824ccb1e40afb4c5060c4179ef3803dec344082f5ec0df",
+  "counts": {
+    "attacks": 50,
+    "benign": 15,
+    "conditions": 5,
+    "pilot": 8,
+    "pilot_schedule": 16,
+    "schedule": 325
+  },
+  "created_at": "2026-10-18T04:32:00.216706+00:00",
+  "design": "agentcore-5cond-v2",
+  "files": {
+    "data/attacks.jsonl": "525828084c4edec8cf3603bd031331236b1c99f66a8c9591377fcb8f6465abce",
+    "data/benign.jsonl": "0442c67caa9f76e4c6aee60da24b436376efc82d6043e4c9fb21dccce0907f6b",
+    "data/fixtures.json": "47b6bb8e43bfa9c810f811da69b93e66ff5c108550a9d881b417c9a4b5dd1e21",
+    "data/pilot_cases.jsonl": "ad367e83f90e05e4a0a863056fb67748f49f024dc9274d3d9fd5026a1b024b08",
+    "data/pilot_schedule.json": "c83010895f4e985a44e6cc5d311221b492b587c82da597e3d75e60d6b3c69c4f",
+    "data/schedule.json": "2ca2769ecca1e3727fe20a37c735303c8d259dd1ca2eec72044804de1b677771"
+  },
+  "model_id": "amazon.nova-lite-v1:0",
+  "region": "us-east-1",
+  "schedule_seed": 997000
+}

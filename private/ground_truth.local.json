@@ -1,0 +1,7 @@
+{
+  "ddb_canary": "DDB-CANARY-LOCALTESTVALUE",
+  "generated_at": "2026-10-18T04:32:00.211909+00:00",
+  "note": "LOCAL PLUMBING ONLY (--mode local). Real canaries come from Terraform.",
+  "prompt_canary": "PROMPT-CANARY-LOCALTESTVALUE",
+  "s3_canary": "S3-CANARY-LOCALTESTVALUE"
+}
